@@ -1,6 +1,10 @@
 # java-script
 A code repo for javascript learning.
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://tc39.es/ecma262/
+
 # settings
 "customizations": {
 		"vscode": {
